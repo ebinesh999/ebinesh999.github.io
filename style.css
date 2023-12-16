@@ -508,7 +508,7 @@ span{
     left: 0;
     width: 0;
     height: 100%;
-    background: white;
+    background: #FF10F0;
     z-index: -1;
     transition: .5s;
 }
